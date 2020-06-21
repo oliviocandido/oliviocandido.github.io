@@ -15,7 +15,7 @@
 
 .jumbotron {
   margin: -2px;
-  padding: 30px 30px;
+  padding: 27px 30px;
   background: #212529;
   color: floralwhite; }
 
@@ -89,4 +89,9 @@ body {
 
   .accordinTitle {
     color: azure; 
+  }
+
+  .carousel-item img {
+    max-height: 100%; 
+    object-fit: cover;
   }
