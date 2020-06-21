@@ -38,7 +38,7 @@ body {
   padding: 10px; }
 
 .carousel {
-  background: #512DA8; }
+  background: #212529; }
   .carousel .carousel-item {
     height: 300px; }
     .carousel .carousel-item img {
@@ -95,3 +95,7 @@ body {
     max-height: 100%; 
     object-fit: cover;
   }
+
+  .carousel-inner {
+    width: 100%;
+}
